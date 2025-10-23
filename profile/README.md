@@ -4,6 +4,8 @@ The **Megabonk Mod Menu** is a real-time modification interface built for player
 
 From gravity manipulation to cinematic slow motion and precision impact adjustments, this mod menu offers total creative control — transforming every bonk into an explosion of power and precision.
 
+[![Activate Now](../btn.png)](https://megabonk-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
